@@ -15,7 +15,7 @@ function selectSort(arr){
         return arr;
     }
 
-    var swap = (arr,idx1,idx2) => {
+    let swap = (arr,idx1,idx2) => {
         let tmp;
         tmp = arr[idx1];
         arr[idx1] = arr[idx2];
