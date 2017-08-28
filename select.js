@@ -36,6 +36,7 @@ function selectSort(arr){
 }
 
 
+//--------------------TESTS BELOW---------------------
 
 let arr = [2,1,0,-10,2,1];
 

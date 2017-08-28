@@ -23,6 +23,8 @@ function insertSort(arr) {
 }
 
 
+//--------------------TEST BELOW----------------------
+
 let arr = [2,1,0,-10,2,1];
 
 console.log(arr);
